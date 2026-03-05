@@ -13,8 +13,8 @@ Staff AI Product Manager who actually built the things before leading them. I've
 
 - 🔭 Currently working on **AI product strategy** and **legal AI applications**
 - 🛠️ Side projects: Mac security auditors, browser games, spam filters, and AI experiments
-- ✍️ Writing about AI product thinking on [Mr. Attack Frog](https://mrattackfrog.substack.com)
-- 💡 Background spans: **Flash/ActionScript → Full-Stack → Data Science/ML → AI PM**
+- ✍️ Writing about AI product thinking on my substack [mrattackfrog](https://mrattackfrog.substack.com)
+- 💡 Background spans: ** Client Engineering → Full-Stack → Data Science/ML → AI PM**
 - 🎯 I can still code — I just use AI to go faster
 
 ---
