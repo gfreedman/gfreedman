@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-I'm a **Staff AI Product Manager** with deep roots in engineering and data science. I spent years building things — Flash experiences for Dell & Mercedes, photo apps and virtual worlds at Disney (including Club Penguin), and ML pipelines using random forests. Now I focus on shipping impactful AI products, with a side habit of building tools late at night using Claude Code.
+Staff AI Product Manager who actually built the things before leading them. I've shipped virtual worlds at Disney (including Club Penguin), interactive experiences for Dell and Mercedes, and ML pipelines from scratch. That builder's background shapes every product decision I make — and I still ship code nights and weekends with Claude Code, because some habits die hard.
 
 - 🔭 Currently working on **AI product strategy** and **legal AI applications**
 - 🛠️ Side projects: Mac security auditors, browser games, spam filters, and AI experiments
