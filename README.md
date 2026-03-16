@@ -10,15 +10,16 @@
 
 Staff AI Product Manager who actually built the things before leading them. I've shipped virtual worlds at Disney (including Club Penguin), interactive experiences for Dell and Mercedes, and ML pipelines from scratch. That builder's background shapes every product decision I make — and I still ship code nights and weekends with Claude Code, because some habits die hard.
 
-- 🔭 Currently exploring **AI-assisted development workflows** and **legal AI applications**
-- ✍️ Writing about AI product thinking on [mrattackfrog](https://mrattackfrog.substack.com)
+- 🔭 Building AI products at the intersection of law, language, and automation
+- 📦 Shipped to millions: Club Penguin (Disney), Dell, Mercedes — then pivoted to ML
+- ✍️ Writing the PM's guide to AI-native development at [mrattackfrog](https://mrattackfrog.substack.com)
 - 💡 Career arc: **Client Engineering → Full-Stack → Data Science/ML → AI PM**
 
 ---
 
 ### ⚡ How I Build
 
-Every project below was built with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) as my primary dev tool. I write structured prompts, use agentic workflows, and ship real software — not prototypes. If you're a PM who thinks you can't code anymore, this is my counter-argument.
+Every project below was built with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) as my primary dev tool. I write structured prompts, use agentic workflows, and ship real software — not prototypes.
 
 ---
 
@@ -54,6 +55,8 @@ Every project below was built with [Claude Code](https://docs.anthropic.com/en/d
 ---
 
 ### 🤝 Connect
+
+Always interested in conversations about AI, product, and what's actually getting built.
 
 <div align="center">
 
