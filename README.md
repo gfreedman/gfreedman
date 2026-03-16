@@ -8,9 +8,9 @@
 
 ### 🧠 About Me
 
-Staff AI Product Manager who actually built the things before leading them. I've shipped virtual worlds at Disney (including Club Penguin), interactive experiences for Dell and Mercedes, and ML pipelines from scratch. That builder's background shapes every product decision I make — and I still ship code nights and weekends with Claude Code, because some habits die hard.
+Staff AI Product Manager who actually built the things before leading them. I've shipped virtual worlds at Disney (including Club Penguin), interactive experiences for Dell and Mercedes, and ML pipelines from scratch. That builder's background shapes every product decision I make.
 
-By day, Staff AI PM at CS Disco applying this stuff to high-stakes legal work. By night, arcade racers and security audits.
+By day, Staff AI PM at CS Disco applying this stuff to high-stakes legal work. By night, arcade racers and security audits — because some habits die hard.
 
 - 🔭 Building AI products at the intersection of law, language, and automation
 - 📦 Shipped to millions: Club Penguin (Disney), Dell, Mercedes — then pivoted to ML
@@ -33,6 +33,7 @@ Every project below was built with [Claude Code](https://docs.anthropic.com/en/d
 | [mac_audit](https://github.com/gfreedman/mac_audit) | Read-only Mac security audit CLI — 69 checks across security, disk, hardware & network with narrated, educational output. Designed with a "teach while you tune" philosophy. | Python |
 | [ai-detection-research](https://github.com/gfreedman/ai-detection-research) | Can GPTZero be fooled? Systematic adversarial robustness testing of AI text detectors via prompt engineering. Spoiler: yes. | Jupyter / Python |
 | [pong](https://github.com/gfreedman/pong) | Classic Pong rebuilt in vanilla TypeScript — delta-time physics, Web Audio synthesis, modular architecture. Same engineering patterns as the outrun project. | TypeScript / Canvas |
+| [gmail-spam-detector](https://github.com/gfreedman/gmail-spam-detector) | Catches spam Gmail misses — behavioral pattern detection, no keyword lists. | Python / GAS |
 
 ---
 
