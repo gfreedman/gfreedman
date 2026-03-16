@@ -10,6 +10,8 @@
 
 Staff AI Product Manager who actually built the things before leading them. I've shipped virtual worlds at Disney (including Club Penguin), interactive experiences for Dell and Mercedes, and ML pipelines from scratch. That builder's background shapes every product decision I make — and I still ship code nights and weekends with Claude Code, because some habits die hard.
 
+By day, Staff AI PM at CS Disco applying this stuff to high-stakes legal work. By night, arcade racers and security audits.
+
 - 🔭 Building AI products at the intersection of law, language, and automation
 - 📦 Shipped to millions: Club Penguin (Disney), Dell, Mercedes — then pivoted to ML
 - ✍️ Writing the PM's guide to AI-native development at [mrattackfrog](https://mrattackfrog.substack.com)
